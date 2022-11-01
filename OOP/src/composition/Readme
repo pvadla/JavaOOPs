@@ -1,0 +1,10 @@
+Composition:
+
+1. Composition is a design technique that implementes has-a relationship.
+2. In this example, books contains title, author and pages.
+3. Library class contains a variable of List of books of type Books class.
+4. Library and Books are dependent on each other.
+5. If Library get destroyed, then books also will be destroyed.
+
+We favour composition over inheritance.
+
