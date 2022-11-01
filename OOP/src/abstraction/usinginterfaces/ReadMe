@@ -1,0 +1,4 @@
+Notes:
+
+1. Here we have defined an interface called Vehicle which has abstract methods and default method.
+2. Bicycle and Bike implements Vehicle interface and implement the methods.

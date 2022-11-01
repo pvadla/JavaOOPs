@@ -1,0 +1,6 @@
+Notes:
+
+1. Here we have defined an interface called Vehicle which has abstract methods and default method.
+2. Circle method extends the Shape class
+3. Rectangle method also extends the Shape class.
+4. Abstract class Shape cannot be instantiated.
